@@ -5,6 +5,6 @@ $user ='root';
 $pwd ='';
 $db ='db_perpus';
 
-$conn = mysqli_connect ($host, $user, $pwd, $db);
+$CON= mysqli_connect ($host, $user, $pwd, $db);
 
 ?>
